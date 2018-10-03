@@ -1,0 +1,42 @@
+p{
+	margin: 0;
+	padding: 0;
+}
+html{
+background-color:#EBEDEF  ;
+
+}
+h1{
+	background: #3AB5E6;
+	color: #1AA15F;
+	text-align: center;
+	padding-bottom: 20px;
+}
+p{
+	font-size: 20px;
+	  margin: auto;
+}
+#test{
+    background: #ABB1BA;
+   border:2px solid #F25022;
+    
+    
+}
+div.abc{
+    margin: 5px;   
+    border:2px solid #ccc;
+        
+    float: left;
+
+    width: 180px;
+}
+
+div.abc img{
+    width: 100%;
+    height: auto;
+}
+section{
+	margin: 250px;
+	max-width:1000px;
+}
+
